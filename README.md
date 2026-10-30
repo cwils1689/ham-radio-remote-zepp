@@ -1,6 +1,6 @@
-# HT Remote
+# Ham Radio Remote
 
-**Control your handheld radio from your wrist.** HT Remote is an app for Amazfit
+**Control your handheld radio from your wrist.** Ham Radio Remote is an app for Amazfit
 watches (Zepp OS) that works as a Bluetooth remote for Benshi-type handheld
 radios such as the Vero VR-N76. Change channels, set the volume, scan and read
 APRS messages without taking the radio out of your pocket or pack. No phone is
@@ -8,14 +8,14 @@ needed once the radio is paired.
 
 > ### Built on HTCommander
 >
-> HT Remote exists because of **[HTCommander](https://github.com/Ylianst/HTCommander)**
+> Ham Radio Remote exists because of **[HTCommander](https://github.com/Ylianst/HTCommander)**
 > by Ylianst. HTCommander's open-source work on these radios' Bluetooth protocol
-> is what made this app possible, and much of HT Remote's radio code is adapted
+> is what made this app possible, and much of Ham Radio Remote's radio code is adapted
 > from it.
 >
 > HTCommander is the full-featured app for these radios: channel programming,
 > APRS, WinLink, a terminal, BBS and more, plus audio on some platforms, on
-> Windows, macOS, Linux, iOS, Android and the web. HT Remote is only a small
+> Windows, macOS, Linux, iOS, Android and the web. Ham Radio Remote is only a small
 > wrist remote. **If you own one of these radios, go try HTCommander and
 > [give it a star](https://github.com/Ylianst/HTCommander).**
 
@@ -39,7 +39,7 @@ needed once the radio is paired.
 
 ## Works with
 
-HT Remote uses the Benshi Bluetooth control protocol, so it should work with:
+Ham Radio Remote uses the Benshi Bluetooth control protocol, so it should work with:
 
 | Brand | Models |
 |---|---|
@@ -55,11 +55,11 @@ went, whether it worked or not.
 
 ## Install
 
-> **Status: pending approval by Zepp.** HT Remote was submitted to the Zepp app
+> **Status: pending approval by Zepp.** Ham Radio Remote was submitted to the Zepp app
 > store in October 2026 and is waiting for Zepp's review. Until it is approved
 > you won't find it in the store.
 
-Once it is approved, search for **HT Remote** in the App Store section of the
+Once it is approved, search for **Ham Radio Remote** in the App Store section of the
 Zepp app on your phone and install it to your watch.
 
 While it is pending, you can try the app by building it from source and
@@ -74,7 +74,7 @@ The radio only accepts commands from a device it has paired with:
 1. On the radio, delete any old entry for the watch under **Connection →
    Paired Devices**.
 2. Open **Connection → Pairing** on the radio and leave it on that screen.
-3. Open HT Remote on the watch and accept the pairing prompt (and on the radio
+3. Open Ham Radio Remote on the watch and accept the pairing prompt (and on the radio
    if it asks).
 
 After that, the app finds the radio by itself. If the radio is switched off or
@@ -133,7 +133,7 @@ Bug reports, radio compatibility reports and ideas are welcome in
 
 ## Credits and license
 
-HT Remote is by Clint Wilson (KO4LTW) and is licensed under the
+Ham Radio Remote is by Clint Wilson (KO4LTW) and is licensed under the
 [Apache License 2.0](LICENSE). It is independent of, and not endorsed by,
 HTCommander, Vero, BTech, Radioddity, Radtel, Zepp Health or Amazfit. All
 product names belong to their owners.

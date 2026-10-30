@@ -1,6 +1,6 @@
-# Developing HT Remote
+# Developing Ham Radio Remote
 
-HT Remote is a Zepp OS mini app (JavaScript, Zepp OS API 3+) that talks to the
+Ham Radio Remote is a Zepp OS mini app (JavaScript, Zepp OS API 3+) that talks to the
 radio directly over Bluetooth LE.
 
 ## Build and run

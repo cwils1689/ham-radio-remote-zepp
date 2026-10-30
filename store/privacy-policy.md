@@ -1,8 +1,8 @@
-# HT Remote Privacy Policy
+# Ham Radio Remote Privacy Policy
 
 Effective date: 2026-10-18
 
-HT Remote is a watch app by Clint Wilson (KO4LTW) that remotely controls a
+Ham Radio Remote is a watch app by Clint Wilson (KO4LTW) that remotely controls a
 handheld amateur radio over Bluetooth. This policy explains what the app does
 with data. The short version: **everything stays on your watch. The app has no
 accounts, no servers, no analytics and no internet access.**
@@ -52,7 +52,7 @@ shown only to you.
 
 The app is built on the Zepp OS platform and distributed through the Zepp
 store. Zepp Health and Amazfit's own apps and services have their own
-policies, which I don't control. HT Remote itself includes an open-source
+policies, which I don't control. Ham Radio Remote itself includes an open-source
 Bluetooth library (easy-ble); it runs on the watch and sends nothing anywhere.
 
 ## Children
