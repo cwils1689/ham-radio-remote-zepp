@@ -50,7 +50,7 @@ Ham Radio Remote uses the Benshi Bluetooth control protocol, so it should work w
 
 **It has only been tested on the Vero VR-N76**, with an Amazfit Balance 2. The
 other radios use the same protocol but haven't been tried, so there may be
-differences. If you try one, please [open an issue](https://github.com/cwils1689/ht-remote/issues) and say how it
+differences. If you try one, please [open an issue](https://github.com/cwils1689/ham-radio-remote-zepp/issues) and say how it
 went, whether it worked or not.
 
 ## Install
@@ -124,7 +124,7 @@ and the last 40 APRS messages it received. See the full
 ## Feedback and contributing
 
 Bug reports, radio compatibility reports and ideas are welcome in
-[Issues](https://github.com/cwils1689/ht-remote/issues). To build the app yourself or work on the code, see
+[Issues](https://github.com/cwils1689/ham-radio-remote-zepp/issues). To build the app yourself or work on the code, see
 [docs/DEVELOPING.md](docs/DEVELOPING.md).
 
 ## Credits and license

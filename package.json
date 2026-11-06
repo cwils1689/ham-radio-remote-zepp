@@ -1,5 +1,5 @@
 {
-  "name": "ht-remote",
+  "name": "ham-radio-remote-zepp",
   "version": "0.2.1",
   "description": "Zepp OS remote for the Vero VR-N76 (Amazfit Balance 2)",
   "private": true,
