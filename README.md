@@ -55,17 +55,13 @@ went, whether it worked or not.
 
 ## Install
 
-> **Status: pending approval by Zepp.** Ham Radio Remote was submitted to the Zepp app
-> store in October 2026 and is waiting for Zepp's review. Until it is approved
-> you won't find it in the store.
+Ham Radio Remote is available in the Zepp app store. On your phone, open the
+Zepp app, go to the **App Store** section, search for **Ham Radio Remote** and
+install it to your watch.
 
-Once it is approved, search for **Ham Radio Remote** in the App Store section of the
-Zepp app on your phone and install it to your watch.
-
-While it is pending, you can try the app by building it from source and
-previewing it on your watch (see [docs/DEVELOPING.md](docs/DEVELOPING.md)).
-That needs the Zeus tool and a Zepp developer account. Zepp doesn't document
-installing a package file directly, so there is no download here.
+You can also build it from source and preview it on your watch (see
+[docs/DEVELOPING.md](docs/DEVELOPING.md)); that needs the Zeus tool and a Zepp
+developer account.
 
 ### First connection
 
